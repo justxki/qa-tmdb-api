@@ -18,3 +18,7 @@ config.local.json
 secrets.json
 *.key
 *.pemt
+
+#Files
+get_session_id.py
+
